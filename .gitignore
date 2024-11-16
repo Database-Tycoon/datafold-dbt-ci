@@ -6,3 +6,4 @@ logs/
 dbt-learning/
 .vscode
 .user.yml
+*.duckdb
